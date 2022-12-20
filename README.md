@@ -30,18 +30,6 @@
 
 (5) PPT 제작 및 발표
 
-## 5. 프로세스
-
-![발표_0012.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7024389a-6203-4fe1-9c9a-7b7023208302/%EB%B0%9C%ED%91%9C_0012.png)
-
-## 6. 도출한 결과
-
-![발표_0032.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/127a6ddf-f918-435a-a8d0-2ac3678e28e8/%EB%B0%9C%ED%91%9C_0032.png)
-
-## 7. 한계
-
-![발표_0034.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f2c1b0f-673d-4371-86f1-141e7c74634c/%EB%B0%9C%ED%91%9C_0034.png)
-
-## 8. PPT
+## 5. PPT
 
 [게임리뷰데이터분석 - Google Drive](https://drive.google.com/drive/folders/1z8_j4sNtHhYwJN36xV5KGn-WwMWgC9cJ?usp=share_link)
