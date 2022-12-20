@@ -1,5 +1,3 @@
-![발표_0001.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fec350b0-4f56-44c1-96b0-35cb4aa9b6bf/%EB%B0%9C%ED%91%9C_0001.png)
-
 ## 1. Topic
 
 - **리뷰기반 게임을 바라보는 서로 다른 문화권의 시각 차이 분석**
